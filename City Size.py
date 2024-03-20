@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-#I don't kown what pseudocode to write, it is a little too obvious of real codes
+#I don't know what pseudocode to write, real codes are a little too obviousgit 
 UK_cities = [0.56, 0.62, 0.04, 9.7]
 China_cities = [0.58, 8.4, 29.9, 22.2]
 print(UK_cities)
